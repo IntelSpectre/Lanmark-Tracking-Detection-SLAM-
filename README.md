@@ -7,7 +7,7 @@ There is a large variety of SLAM (Simultaneous Localization and Mapping) approac
 *Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.*
 
 <p align="center">
-	<img src="Landmark-Tracking-Detection-SLAM-/images/robot_world.png" align="middle" alt="drawing" width="500px">
+	<img src="Landmark Detection & Tracking (SLAM)/images/robot_world.png" align="middle" alt="drawing" width="500px">
 </p>
 
 ## Project Structure
